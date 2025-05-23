@@ -1,8 +1,8 @@
 ## Hi there 👋
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmodi001&layout=compact&hide_border=false&theme=radical&bg_color=003366&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmodi001&layout=compact&hide_border=false&theme=radical&bg_color=FFFFFF00&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   &nbsp; 
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ayushmodi001&theme=radical&hide_border=false&background=003366">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ayushmodi001&theme=radical&hide_border=false&background=FFFFFF00">
   <br>
 </p>
 <!--
